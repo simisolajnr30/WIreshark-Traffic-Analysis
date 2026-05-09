@@ -20,7 +20,47 @@ The analysis followed a structured process:
 
 To begin, open the PCAP file in Wireshark:
 
+![Wireshark 1](wireshark2.png)
+
+---
+
+## **Traffic Filtering and Analysis**
+
+Step 1: Filtering Traffic
+
+Using the “Basic” filter button configured earlier, I was able to view successful connections and reduce the packet count from:
+
+- 2,922 packets
+to
+- 173 packets
+
+This helped narrow the investigation scope and focus on suspicious:
+
 ![Wireshark 1](wireshark8.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
