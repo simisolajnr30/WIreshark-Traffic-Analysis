@@ -20,6 +20,8 @@ The analysis followed a structured process:
 
 To begin, open the PCAP file in Wireshark:
 
+![Wireshark 1](wireshark8.png)
+
 
 
 
